@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Splitline",
+    "slug": "splitline",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#FAFAFA",
+    "splash": {
+      "backgroundColor": "#FAFAFA"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.splitline.app"
+    },
+    "android": {
+      "package": "com.splitline.app"
+    }
+  }
+}
