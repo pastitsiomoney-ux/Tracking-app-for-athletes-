@@ -1,0 +1,85 @@
+Splitline Source-Available License (SSAL) v1.0
+Copyright (c) 2026 Pastitsio. All Rights Reserved.
+
+1. GRANT OF VIEWING RIGHTS
+
+Subject to the terms of this License, the copyright holder grants any
+person obtaining a copy of this repository ("You") a limited,
+non-exclusive, non-transferable, revocable right to VIEW and READ the
+source code contained herein, for the sole purposes of:
+
+  (a) evaluating the security, privacy, and data-handling practices of
+      the Splitline application, given that it processes personal
+      health, biometric, and training data; and
+  (b) general educational review of the techniques used.
+
+2. RESTRICTIONS
+
+Except as expressly permitted under Section 1, You may NOT, without the
+prior written permission of the copyright holder:
+
+  (a) copy, reproduce, or duplicate this source code or any portion of
+      it, in whole or in part, in any form or medium;
+  (b) modify, adapt, translate, or create derivative works based on this
+      source code;
+  (c) distribute, publish, sublicense, sell, rent, lease, or otherwise
+      make this source code or any derivative of it available to any
+      third party;
+  (d) compile, package, or submit this software, or any modified or
+      unmodified version of it, to any application marketplace or
+      distribution platform, including but not limited to the Apple App
+      Store, Google Play Store, or any other app store, web store, or
+      software repository;
+  (e) use this source code, in whole or in part, in any other product
+      or service, commercial or non-commercial; or
+  (f) remove or alter any copyright, trademark, or attribution notices
+      contained in the source code.
+
+3. NO GRANT OF TRADEMARK OR BRAND RIGHTS
+
+This License does not grant You any rights to use the "Splitline" name,
+logo, or associated branding, whether or not the underlying source code
+is used.
+
+4. OWNERSHIP
+
+This source code is licensed, not sold. The copyright holder retains all
+right, title, and interest in and to the software, including all
+intellectual property rights therein. No rights are granted to You
+other than as expressly set forth in this License.
+
+5. CONTRIBUTIONS
+
+If You submit any contribution (code, documentation, or otherwise) to
+this repository, You agree that Your contribution is provided under the
+same terms as this License, and that the copyright holder may use,
+modify, and relicense Your contribution at their sole discretion.
+
+6. TERMINATION
+
+This License and the rights granted under Section 1 automatically
+terminate if You violate any of its terms. Upon termination, You must
+cease all viewing and use of this source code.
+
+7. DISCLAIMER OF WARRANTY
+
+THIS SOURCE CODE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+NON-INFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR
+ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THIS
+SOURCE CODE.
+
+8. GOVERNING LAW
+
+This License shall be governed by and construed in accordance with the
+laws of the jurisdiction in which the copyright holder resides, without
+regard to its conflict-of-law principles.
+
+---
+
+Note: This license template is provided for convenience and has not
+been reviewed by an attorney. If Splitline is intended for wide public
+release or commercial distribution, consider having this License
+reviewed by a licensed attorney to confirm it holds up in your specific
+jurisdiction and use case.
