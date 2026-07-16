@@ -1,0 +1,104 @@
+# ==============================================================
+# Splitline — unified .gitignore
+# Covers: Node, React Native, Expo, iOS (Xcode/CocoaPods),
+# Android (Gradle/APKs), and common editor configs.
+# ==============================================================
+
+# ---------- Node ----------
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.pnp/
+.pnp.js
+package-lock.json.bak
+
+# ---------- Environment / secrets ----------
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+*.p8
+*.p12
+*.mobileprovision
+*.jks
+*.keystore
+google-services.json
+GoogleService-Info.plist
+
+# ---------- Expo ----------
+.expo/
+.expo-shared/
+dist/
+web-build/
+expo-env.d.ts
+*.orig.*
+
+# ---------- React Native / Metro ----------
+.metro-health-check*
+metro.config.local.js
+
+# ---------- iOS (Xcode / CocoaPods) ----------
+ios/Pods/
+ios/build/
+ios/DerivedData/
+ios/*.xcworkspace/xcuserdata/
+ios/*.xcodeproj/xcuserdata/
+ios/*.xcodeproj/project.xcworkspace/xcuserdata/
+*.hmap
+*.ipa
+*.xcuserstate
+*.xcarchive
+Podfile.lock
+
+# ---------- Android (Gradle / APKs) ----------
+android/app/build/
+android/build/
+android/.gradle/
+android/gradle.properties
+android/local.properties
+android/*.iml
+android/.idea/
+*.apk
+*.aab
+*.aar
+*.hprof
+*.keystore
+!debug.keystore
+
+# ---------- macOS ----------
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ---------- Windows ----------
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ---------- Editors / IDEs ----------
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.iml
+*.swp
+*.swo
+*~
+
+# ---------- Logs & caches ----------
+*.log
+.cache/
+.eslintcache
+.tmp/
+.turbo/
+
+# ---------- Build output ----------
+build/
+out/
+coverage/
+
+# ---------- Misc ----------
+*.tsbuildinfo
+.watchmanconfig
